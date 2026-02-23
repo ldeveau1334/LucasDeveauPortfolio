@@ -1,0 +1,3 @@
+student(sid:String, sname:String, major:String, byear:Integer)
+course(cno:String, cname:String, dept:String)
+enroll(sid:String, cno:String, grade:String)
